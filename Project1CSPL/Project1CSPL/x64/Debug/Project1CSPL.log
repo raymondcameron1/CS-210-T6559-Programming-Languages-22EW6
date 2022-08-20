@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Raymond\source\repos\Project1CSPL\Project1CSPL\Source.cpp(160): warning C4715: 'userMenu': not all control paths return a value
+  Project1CSPL.vcxproj -> C:\Users\Raymond\source\repos\Project1CSPL\x64\Debug\Project1CSPL.exe
